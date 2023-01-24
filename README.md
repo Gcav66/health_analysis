@@ -1,5 +1,10 @@
 # Gus Health Project
-Background: I recently dedicated myself to a healthier lifestyle, with a specific emphasis on improving my physique, i.e., I'm a bro and want to be ripped. I document progress, workouts, and nutrition on my [Instagram](https://www.instagram.com/gcav66/). This repo is a data project to gather, analyze, and optimize my diet, training, lifestyle, and sleep to improve overall health and maximize my lean, muscular bodyweight 
+## Background: 
+* I recently dedicated myself to a healthier lifestyle, with a specific emphasis on improving my physique, i.e., I'm a bro and want to be ripped. I document progress, workouts, and nutrition on my [Instagram](https://www.instagram.com/gcav66/). 
+* This repo is a data project to gather, analyze, and optimize my diet, training, lifestyle, and sleep to improve overall health and maximize my lean, muscular bodyweight 
+
+## Progress:
+<img src="img/dadbod_fatherfigure.PNG" width="300">
 
 ## Initiative: Optimize diet to maximize lean, muscular bodyweight
 ### Persona: Gus
